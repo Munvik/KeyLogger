@@ -1,0 +1,11 @@
+
+
+[WINDOW: D:\Exe\VS studio\Visual Studio 2017\Projects\Keylogger\Keylogger\x64\Debug\Keylogger Client.exe - at Wed Jul 18 23:08:17 2018 ]  Key = 1
+
+[WINDOW: D:\Exe\VS studio\Visual Studio 2017\Projects\Keylogger\Keylogger\x64\Debug\Keylogger Client.exe - at Wed Jul 18 23:08:17 2018 ]  Key = 2
+
+[WINDOW: D:\Exe\VS studio\Visual Studio 2017\Projects\Keylogger\Keylogger\x64\Debug\Keylogger Client.exe - at Wed Jul 18 23:08:17 2018 ]  Key = 1
+
+[WINDOW: D:\Exe\VS studio\Visual Studio 2017\Projects\Keylogger\Keylogger\x64\Debug\Keylogger Client.exe - at Wed Jul 18 23:08:17 2018 ]  Key = 2
+
+[WINDOW: D:\Exe\VS studio\Visual Studio 2017\Projects\Keylogger\Keylogger\x64\Debug\Keylogger Client.exe - at Wed Jul 18 23:08:17 2018 ]  Key = 1
